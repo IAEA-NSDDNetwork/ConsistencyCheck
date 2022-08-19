@@ -1,9 +1,12 @@
 # ConsistenyCheck 
-ConsistenyCheck is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+ConsistenyCheck is a toolkit for checking data consistency among ENSDF datasets, grouping levels and gammas, averaging values from different datasets, making a new adopted dataset based on grouping results and analysis, and more. It is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
-Please address any feedback to Jun Chen chenj@nscl.msu.edu
+Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
+
+#### 2022-06
+Bug fixes.
 
 #### 2021-03
 More checking items have been included, and improved level-matching algorithm for matching levels from different datasets
