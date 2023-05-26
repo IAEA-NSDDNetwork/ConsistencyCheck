@@ -5,6 +5,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2023-05
+Bug fixes and improvements
+
 #### 2023-03
 Major update: add function for checking ENSDF format with error messages in the .fmt file.
 
