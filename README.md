@@ -6,7 +6,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change history
 
 #### 2023-06
-Major update: add checking for keynumber format and relevance (by querying NSR database online), with report in the A#_keynumber.rpt file, e.g., 31_keynumber for A=31 nuclide or mass chain.
+Major update: add checking for keynumber format and relevance (by querying NSR database online), with report in the A#_keynumber.rpt file, e.g., 31_keynumber.rpt for A=31 nuclide or mass chain.
 
 #### 2023-05
 Bug fixes and improvements
