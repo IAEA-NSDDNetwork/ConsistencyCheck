@@ -5,6 +5,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2024-06
+Update NSR retrieval methods (for keynumber checking) with the new NSR search engine (online Jun 2024). Note that all previous versions using the old NSR search engine are no longer working for checking keynumbers due to the offline of the old NSR.
+
 #### 2024-03
 Bug fixes and improvements
 
