@@ -15,7 +15,7 @@ In .mrg file (grouping levels from different datasets):
       
   --- added suggested possible Jp assignments at the end of the adopted level-record line, based on (combining) data from all available datasets
 
-One can use the suggested Jp assignment as a starting point for making the final adopted assignment, but should not take it as the final assignment, since it is currently based on data that can be retrieved from the record lines but there could be other arguments which could haven't been considered, e.g., arguments like shell-model calculations, analyzing powers, atomic-beam method for g.s. spin, etc., given under comments.
+One can use the suggested Jp assignment as a starting point for making the final adopted assignment, but should not take it as the final assignment, since it is currently based on data that can be retrieved from the record lines but there could be other arguments which could haven't been considered, e.g., arguments like shell-model calculations, analyzing powers, atomic-beam method for g.s. spin, etc., given under comments. More arguments will be considered and included.
 
 #### 2025-02
 Bug fixes and improvements
