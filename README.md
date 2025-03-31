@@ -9,8 +9,10 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 Bug fixes and improvements.
 
 In .mrg file (grouping levels from different datasets):
+
   --- added suggested possible Jp assignments at the end of the level-record line of each dataset, only based on data in each individual dataset
       e.g., logft or HF in decay dataset, L-transfer in particle-transfer dataset, decaying and feeding gammas
+      
   --- added suggested possible Jp assignments at the end of the adopted level-record line, based on (combining) data from all available datasets
 
 One can use the suggested Jp assignment as a starting point for making the final adopted assignment, but should not take it as the final assignment, since it is currently based on data that can be retrieved from the record lines but there could be other arguments which could haven't been considered, e.g., arguments like shell-model calculations, analyzing powers, atomic-beam method for g.s. spin, etc., given under comments.
