@@ -10,7 +10,7 @@ Bug fixes and improvements.
 
 In .mrg file (grouping levels from different datasets):
 
-  --- added suggested possible Jp assignments at the end of the level-record line of each dataset, only based on data in each individual dataset
+  --- added suggested possible Jp assignments at the end of the level-record line of each dataset, only based on data in each individual dataset,
       e.g., logft or HF in decay dataset, L-transfer in particle-transfer dataset, decaying and feeding gammas
       
   --- added suggested possible Jp assignments at the end of the adopted level-record line, based on (combining) data from all available datasets
