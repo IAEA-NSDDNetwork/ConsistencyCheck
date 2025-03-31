@@ -7,6 +7,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 #### 2025-03
 Bug fixes and improvements.
+
 In .mrg file (grouping levels from different datasets):
   --- added suggested possible Jp assignments at the end of the level-record line of each dataset, only based on data in each individual dataset
       e.g., logft or HF in decay dataset, L-transfer in particle-transfer dataset, decaying and feeding gammas
